@@ -1,7 +1,7 @@
 # Site settings
 title: Leslie Fleming
 email: lesliemillerdancy@gmail.com
-url: https://lesliemillerdancy-alt.github.io/cyberportfolio
+url: https://leslifleming-alt.github.io/cyberportfolio
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
 skills: "Cybersecurity - Analyst - Digital Forensics"
@@ -42,7 +42,7 @@ social:
   - title: linkedin
     url: https://www.linkedin.com/in/leslie-fleming-a51449390/
   - title: github
-    url: https://github.com/lesliemillerdancy-alt
+    url: https://github.com/lesliefleming-alt
 
 # Email Address (make sure to include "mailto:" before your email!)
 email:
